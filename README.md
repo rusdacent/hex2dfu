@@ -23,6 +23,8 @@ and type:
 
 gcc hex2dfu.c ED25519/*.c -o hex2dfu.exe
 
+**Fork UPD** \
+Add ED25519 files to repo
 
 Using
 =====
